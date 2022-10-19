@@ -1,0 +1,42 @@
+body{
+    background-image: url("background.webp");
+}
+.heading{
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+}
+.heading h1{
+    display: inline;
+    margin-left: 10px;
+}
+
+.heading button {
+    float: right;
+    border: 1px white solid;
+}
+.modal-dialog {
+    width: 90%;
+}
+h4 {
+    margin: 0px;
+    width: 100%;
+    bottom: 0;
+    background-color: orange;
+    padding: 20px;
+    font-size: 20px;
+}
+.bigmario {
+    width: 100%;
+}
+.btn-success, .btn-warning {
+    width: 15%;
+    font-size: 18px;
+}
+
+video {
+    background-image: url("game_console.png");
+    padding: 25px;
+    background-position: center;
+    background-size: cover;
+}
